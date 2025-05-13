@@ -114,7 +114,7 @@ Start Apache and MySQL in XAMPP.
 
 
 
-Open http://localhost/ecommerce in your browser.
+Open http://localhost/foods in your browser.
 
 Usage
 
@@ -138,20 +138,5 @@ Contributing
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-
-For questions or support, contact Julius Barellano:
 
 
-
-
-
-Email: itsjulius24@gmail.com
-
-
-
-GitHub: getutuajm1
